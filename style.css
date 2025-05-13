@@ -22,6 +22,11 @@ h4 {
     padding-top: 10px;
 }
 
+li {
+    padding-bottom: 6px;
+    font-size: 18px;
+}
+
 .heading,
 .description {
     background-color: rgb(224, 221, 208);
@@ -32,6 +37,8 @@ h4 {
 .card {
     background-color: whitesmoke;
     padding: 10px 40px 10px 40px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .description {
