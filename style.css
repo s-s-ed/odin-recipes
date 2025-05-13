@@ -1,0 +1,48 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300;
+    letter-spacing: 0.3px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+h4 {
+    text-transform: uppercase;
+    color: rgb(165, 165, 165);
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.heading,
+.description {
+    background-color: rgb(224, 221, 208);
+    padding: 30px;
+    text-align: center;
+}
+
+.card {
+    background-color: whitesmoke;
+    padding: 10px 40px 10px 40px;
+}
+
+.description {
+    text-align: center;
+    font-size: 25px;
+}
+
+.ingredients {
+    padding-top: 40px;
+}
+
+.method {
+    padding-bottom: 40px;
+}
